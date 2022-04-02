@@ -1,0 +1,14 @@
+mesa			800	400
+raio			10
+passo_simulacao	10
+jogador 		willians 10
+jogador 		camila 5
+bola azul		200	100	200
+bola preta		300	100	200
+bola vermelha	400	100	200
+bola amarela	200	200	200
+bola branca		300	200	200
+bola laranja	400	200	200
+bola rosa		200	300	200
+bola verde		300	300	200
+bola cinza		400	300	200
